@@ -11,5 +11,8 @@ header {
     font-size: 30px;
     color: rgb(84, 149, 1);
 
+    section{
+        background: rgb(84, 149, 1);
+    }
 
 }
