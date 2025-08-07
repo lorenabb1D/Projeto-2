@@ -9,12 +9,14 @@ header {
     border-color: rgb(84, 149, 1);
     padding: 20px;
     font-size: 30px;
-    color: rgb(84, 149, 1);
-  }
+<<<<<<< HEAD
+} 
+section {
+    background: rgb(84,149,1);
+}
 
     section {
         background: rgb(84, 149, 1);
         padding-bottom: 80px;
         padding-top: 80px;
     }
-
