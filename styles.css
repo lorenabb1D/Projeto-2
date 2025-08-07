@@ -39,3 +39,8 @@ section {
     img{
         height: 180px;
     }
+
+    .categoria-videos{
+        display: flex;
+    }
+    
