@@ -55,5 +55,5 @@ section {
     
     .categoria-videos img:hover {
         opacity: 1.0;
-        border: 1px solid red;
+        border: 2px solid red;
     }
