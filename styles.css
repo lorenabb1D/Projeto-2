@@ -2,7 +2,7 @@ body {
     color:white;
     background: rgb(9, 16, 51);
     padding: 0px;
-    font-family: "Libertinus Sans", sans-serif;
+
 }
 
 header {
@@ -11,6 +11,7 @@ header {
     padding: 20px;
     font-size: 30px;
 <<<<<<< HEAD
+    font-family: "Libertinus Sans", sans-serif;
 } 
 section {
     background: rgb(84, 74, 224);
