@@ -53,3 +53,6 @@ section {
         height: 150px;
     }
     
+    .categoria-videos img:hover {
+        opacity: 1.0;
+    }
