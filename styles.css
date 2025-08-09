@@ -2,7 +2,6 @@ body {
     color:white;
     background: rgb(9, 16, 51);
     padding: 0px;
-    margin-bottom: 50px;
 }
 
 header {
@@ -64,4 +63,5 @@ section {
         color: red;
         font-size: 25px;
         font-family: "Playwrite HU", cursive;
+        margin-bottom: 50px;
     }
