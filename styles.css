@@ -1,6 +1,6 @@
 body {
     color:white;
-    background: rgb(9, 16, 51);
+    background: rgb(2, 25, 138);
     padding: 0px;
     margin-bottom: 30px;
 }
@@ -14,7 +14,7 @@ header {
     font-family: "Libertinus Sans", sans-serif;
 } 
 section {
-    background: rgb(84, 74, 224);
+    background: rgb(87, 31, 119);
 }
 
 .chamada {
