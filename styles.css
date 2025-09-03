@@ -23,6 +23,11 @@ section {
         padding-top: 80px;
         display: flex;
         justify-content: center;
+    
+    }
+
+    P {
+        font-size: 15px;
     }
 
     .chamada-texto {
