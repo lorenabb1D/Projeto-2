@@ -62,7 +62,7 @@ section {
     
     .categoria-videos img:hover {
         opacity: 1.0;
-        border: 3px solid red;
+        border: 3px solid rgb(18, 53, 10);
     }
 
     .categoria h2 {
