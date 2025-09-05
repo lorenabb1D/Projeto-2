@@ -15,7 +15,6 @@ header {
 } 
 section {
     background: #caca69;
-    font-size: black;
 }
 
 .chamada {
@@ -75,24 +74,24 @@ section {
     .chamada2 {
         margin-bottom: 30px;
          margin-top: 30px;
-        font-size: 30px;
+        font-size: 30px black;
     }
 
     .chamada3{
         margin-bottom: 30px;
          margin-top: 30px;
-        font-size: 30px;
+        font-size: 30px black;
     }
 
     .chamada4{
          margin-bottom: 30px;
          margin-top: 30px;
-        font-size: 30px;
+        font-size: 30px black;
     }
 
     .chamada5{
          margin-bottom: 30px;
          margin-top: 30px;
-        font-size: 30px;
+        font-size: 30px black;
     }
     
